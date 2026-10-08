@@ -19,3 +19,7 @@ Demostrar el dominio práctico del control de versiones mediante la gestión de 
 # Control de cambios
 **Descripción del trabajo realizado:** Se ha creado un proyecto Maven vacío, compatible con Eclipse, con su estructura base, archivos de configuración (.project, .classpath, .settings), .gitignore y documentación inicial en README.md, conforme a lo solicitado en la Tarea 2.
 
+## Gestión de ramas
+- **Nombre de la rama:** `feature-delgado`
+- **Cambio realizado:** Se creó la clase `ControlVersion_Delgado.java` dentro de `src/main/java`, la cual muestra en consola un mensaje que identifica al estudiante y señala que la funcionalidad fue desarrollada desde una rama independiente. Esta rama se mantiene separada de `main` para practicar el flujo de trabajo con ramas y su posterior fusión.
+
