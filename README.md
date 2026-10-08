@@ -13,5 +13,9 @@ Proyecto Maven vacío, compatible con Eclipse, creado con la finalidad de eviden
 Demostrar el dominio práctico del control de versiones mediante la gestión de repositorios locales y remotos, el uso del área de staging, la realización de commits, la recuperación de versiones, la gestión y fusión de ramas, así como la publicación, clonación y sincronización con GitHub. El objetivo es mantener un historial ordenado, trazable y verificable.
 
 # Evidencia T2
-**Evaluación:** Pregunta 01 – Control de versiones con Git y GitHub.
+**Evaluación:** Control de versiones con Git y GitHub.
 **Descripción:** Esta evaluación busca demostrar la aplicación práctica de Git y GitHub para la gestión de repositorios locales y remotos, incluyendo el área de staging, commits, historial de versiones, manejo y fusión de ramas, publicación, clonación y sincronización, con el objetivo de mantener un historial ordenado, trazable y verificable.
+
+# Control de cambios
+**Descripción del trabajo realizado:** Se ha creado un proyecto Maven vacío, compatible con Eclipse, con su estructura base, archivos de configuración (.project, .classpath, .settings), .gitignore y documentación inicial en README.md, conforme a lo solicitado en la Tarea 2.
+

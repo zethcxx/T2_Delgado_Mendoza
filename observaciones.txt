@@ -1,0 +1,4 @@
+Evaluación T2 - Control de versiones con Git y GitHub.
+
+Anotación: Esta evaluación permite evidenciar el dominio práctico de Git y GitHub, aplicando la gestión de repositorios locales y remotos, área de staging, commits, ramas, fusión, publicación, clonación y sincronización, con el fin de mantener un historial ordenado, trazable y verificable.
+
